@@ -6,6 +6,8 @@ description: '[Laminated plate calculations]
 file: /courses/3-11-mechanics-of-materials-fall-1999/022f196e1d7b501a2e9853c238013b70_plate.exe
 file_size: 192512
 file_type: application/x-ms-dos-executable
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

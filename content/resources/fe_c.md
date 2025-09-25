@@ -4,6 +4,8 @@ description: Plot of percent carbon v. temperature
 file: /courses/3-11-mechanics-of-materials-fall-1999/dd4ab2a2a8ba984f601412cf02958f01_fe_c.gif
 file_size: 15662
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

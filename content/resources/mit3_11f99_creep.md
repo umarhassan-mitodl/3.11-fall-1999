@@ -4,6 +4,8 @@ description: This resource contains information regarding mechanics of materials
 file: /courses/3-11-mechanics-of-materials-fall-1999/03f228389f157ea7a34095d54c8d64bb_MIT3_11F99_creep.pdf
 file_size: 99472
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

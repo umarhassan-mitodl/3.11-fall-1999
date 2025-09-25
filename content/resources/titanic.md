@@ -4,6 +4,8 @@ description: Informational graphic from the Washington Post.
 file: /courses/3-11-mechanics-of-materials-fall-1999/799341cd138e4c2f114da576a4d6cd50_titanic.gif
 file_size: 45248
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

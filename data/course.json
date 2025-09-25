@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "1999",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ]
+  ],
+  "legacy_uid": "78c96ea3-4a73-24a4-ed2f-83d26ce852fd",
+  "instructors": {
+    "content": [
+      "72b34d9a-c05f-32e3-e1c2-8fbeb686dde3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "783b1762-d232-cd1e-1742-07b1afd5f268",
+    "website": "3-11-mechanics-of-materials-fall-1999"
+  },
+  "course_title": "Mechanics of Materials",
+  "course_description": "Overview of mechanical properties of ceramics, metals, and polymers, emphasizing the role of processing and microstructure in controlling these properties. Basic topics in mechanics of materials including: continuum stress and strain, truss forces, torsion of a circular shaft and beam bending. Design of engineering structures from a materials point of view.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.11",
+  "course_image_thumbnail": {
+    "content": "64ec42a0-3df4-20b3-0126-c47e5f766dc2",
+    "website": "3-11-mechanics-of-materials-fall-1999"
+  },
+  "learning_resource_types": [
+    "Simulations",
+    "Open Textbooks",
+    "Problem Sets"
+  ],
+  "site_uid": "9fdd9735-a0e4-46f1-b7bd-b43a41fb9fc4",
+  "site_short_id": "3.11-fall-1999",
+  "site_url_path": "courses/3-11-mechanics-of-materials-fall-1999",
+  "title": "Course Metadata"
+}

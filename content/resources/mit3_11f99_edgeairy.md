@@ -4,6 +4,8 @@ description: This resource contains information regarding mechanics of materials
 file: /courses/3-11-mechanics-of-materials-fall-1999/635c3b82fe1f21119b6ce25ff4bcfeaf_MIT3_11F99_edgeairy.pdf
 file_size: 122980
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
